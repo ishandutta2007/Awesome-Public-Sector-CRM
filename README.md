@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Public-Sector-CRM"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Public-Sector-CRM?style=flat-square&color=blue" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Public-Sector-CRM"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Public-Sector-CRM?style=flat-square&color=blue" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Public-Sector-CRM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Public-Sector-CRM?style=flat-square&color=orange" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Public-Sector-CRM/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Public-Sector-CRM?style=flat-square&color=green" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -34,7 +34,7 @@ This curated list breaks down market-leading commercial **GovTech SaaS platforms
 
 - [☁️ SaaS / Commercial Government CRM Platforms](#️-saas--commercial-government-crm-platforms)
 - [💻 Open-Source Civic Tech & Public Sector Repositories](#-open-source-civic-tech--public-sector-repositories)
-  - [⚡ Top Repositories (Sorted by Star Count)](#-top-repositories-sorted-by-star-count)
+  - [⚡ Top Repositories (Sorted by Stars_Count)](#-top-repositories-sorted-by-star-count)
   - [🏛️ Categorized Open-Source Civic Solutions](#️-categorized-open-source-civic-solutions)
 - [📈 Star History](#-star-history)
 - [💖 Support & Sponsorship](#-support--sponsorship)
@@ -68,9 +68,9 @@ The following commercial public sector platforms are sorted by **Company Size (V
 
 For government agencies pursuing digital sovereignty, transparent codebases, or custom self-hosted citizen portals, these open-source repositories provide production-ready solutions.
 
-### ⚡ Top Repositories (Sorted by Star Count)
+### ⚡ Top Repositories (Sorted by Stars_Count)
 
-| Repository | Project Focus | Stars Badge (Link to Stargazers) | License | Primary Tech Stack |
+| Repository | Project Focus | Stars_Badge (Link to Stargazers) | License | Primary Tech Stack |
 | :--- | :--- | :--- | :--- | :--- |
 | **[twentyhq/twenty](https://github.com/twentyhq/twenty)** | Modern open-source CRM alternative to Salesforce; ideal for government agencies wanting full data sovereignty and customizable schema. | [<img src="https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white" alt="twenty Stars"/>](https://github.com/twentyhq/twenty/stargazers) | AGPL-3.0 | TypeScript, React, NestJS, PostgreSQL |
 | **[frappe/erpnext](https://github.com/frappe/erpnext)** | Full-featured ERP and public sector administrative CRM covering budgeting, constituent records, procurement, and asset management. | [<img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="erpnext Stars"/>](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Python, Frappe, MariaDB, Redis |
@@ -141,7 +141,7 @@ We welcome additions from GovTech engineers, civic innovators, and public offici
 
 1. Fork this repository.
 2. Ensure your proposed project is active and compliant with open-source licensing or transparent SaaS pricing.
-3. Follow the markdown table format, including the star badge:  
+3. Follow the markdown table format, including the Stars_Badge:  
    `[<img src="https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white" alt="{repo} Stars"/>](https://github.com/owner/repo/stargazers)`
 4. Check out [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more awesome list guidelines!
 5. Submit a descriptive Pull Request.
