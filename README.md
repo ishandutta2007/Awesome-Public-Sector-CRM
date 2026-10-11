@@ -122,15 +122,16 @@ For government agencies pursuing digital sovereignty, transparent codebases, or 
 
 ## 💖 Support & Sponsorship
 
-If this curated compilation assists your municipal agency, digital team, or civic research project:
+Thank you so much for taking the time to explore **Awesome Public Sector CRM**! Your support keeps this community directory active, relevant, and continually updated for public administrators, civic developers, and municipal IT professionals worldwide.
 
-- 🌟 **Star this repository** on GitHub to keep it visible!
-- 🍴 **Fork the repo** to benchmark software or contribute updates.
-- 📢 **Share with civic leaders**, municipal CIOs, and GovTech developers.
+If you find this repository valuable:
+- 🌟 **Star this repository** on GitHub to increase its visibility and reach!
+- 🍴 **Fork the project** to create your own reference or submit contributions.
+- 📢 **Share it** with colleagues, civic leaders, city councils, and tech communities!
 
-☕ **Support the maintainer:**  
-Contributions support continuous open-source research and directory curation:  
-👉 **[Sponsor on GitHub](https://github.com/sponsors/ishandutta2007)** ❤️
+☕ **Buy me a coffee / Sponsor the project:**  
+If this resource has helped you or your organization, consider buying me a coffee to support ongoing research and development:  
+👉 **[Buy Me a Coffee & Sponsor on GitHub](https://github.com/sponsors/ishandutta2007)** ❤️
 
 ---
 
